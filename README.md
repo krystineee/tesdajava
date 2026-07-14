@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I'm Krystine Hermionne Oseña!
 
-I'm a graduating Bachelor of Science in Computer Science student with experience in data science, machine learning, and web development. I'm passionate about building data-driven solutions and applying my technical skills to real-world projects.
+I'm a graduating Computer Science student with experience in data science, machine learning, and web development. I'm passionate about building data-driven solutions and applying my technical skills to real-world projects.
 
     🎓 Bachelor of Science in Computer Science
         Polytechnic University of the Philippines
@@ -14,6 +14,7 @@ I'm a graduating Bachelor of Science in Computer Science student with experience
 | `Language` | Python • Java • C • C# • HTML • CSS • JavaScript |
 | `Data Science` | Machine Learning • Data Analysis • Data Preprocessing • Feature Engineering|
 | `Tools` | Jupyter Notebook • VS Code • Microsoft Office • Figma • Canva|
+
 ## 💼 Experience
 
 **Data Science Intern**
@@ -33,7 +34,6 @@ Land Bank of the Philippines – Head Office
 🎙️**TINIG: AI-Generated Audio Detection**
 
 Built an AI-generated audio detection model for Filipino and Taglish voice recordings using a dual-path architecture combining XLS-R and LFCC features with an SVM classifier. The model was trained and evaluated using a custom-built dataset.
-
 
 📊 **Customer Churn Prediction**
 
