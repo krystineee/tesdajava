@@ -46,9 +46,9 @@ Built an AI-generated audio detection model for Filipino and Taglish voice recor
 Developed a machine learning model in Python to predict customer churn through data preprocessing, feature engineering, model training, and performance evaluation.
 
 <p align="center">
-    <img src="https://github.com/krystineee/images/blob/main/Screenshot%202026-07-14%20091416.png" width="32%" alt="Results">
-    <img src="https://github.com/krystineee/images/blob/main/Screenshot%202026-07-14%20094729.png" width="32%" alt="Heatmap">
-    <img src="https://github.com/krystineee/images/blob/main/Screenshot%202026-07-14%20094850.png" width="32%" alt="Prediction">
+    <img src="https://raw.githubusercontent.com/krystineee/images/main/Screenshot%202026-07-14%20091416.png" width="32%" alt="Results">
+    <img src="https://raw.githubusercontent.com/krystineee/images/main/Screenshot%202026-07-14%20094729.png" width="32%" alt="Heatmap">
+    <img src="https://raw.githubusercontent.com/krystineee/images/main/Screenshot%202026-07-14%20094850.png" width="32%" alt="Prediction">
 </p>
 
 🐑 **Sheep Thrills: The Adventure of Sheepapopipopu**
@@ -56,7 +56,7 @@ Developed a machine learning model in Python to predict customer churn through d
 Designed and animated the main character for a 2D platformer game using custom sprite animations. Contributed to the game's visual style and character movement to create a fun and engaging gameplay experience.
 
 <p align="center">
-    <img src="https://github.com/krystineee/images/blob/main/Screenshot%202026-07-14%20095632.png" width="32%" alt="Start Screen">
-    <img src="https://github.com/krystineee/images/blob/main/Screenshot%202026-07-14%20095729.png" width="31.5%" alt="Gameplay">
-    <img src="https://github.com/krystineee/images/blob/main/Screenshot%202026-07-14%20095850.png" width="32%" alt="Results">
+    <img src="https://raw.githubusercontent.com/krystineee/images/main/Screenshot%202026-07-14%20095632.png" width="32%" alt="Start Screen">
+    <img src="https://raw.githubusercontent.com/krystineee/images/main/Screenshot%202026-07-14%20095729.png" width="31.5%" alt="Gameplay">
+    <img src="https://raw.githubusercontent.com/krystineee/images/main/Screenshot%202026-07-14%20095850.png" width="32%" alt="Results">
 </p>
