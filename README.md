@@ -31,10 +31,32 @@ Land Bank of the Philippines – Head Office
 
 ## 🚀 Projects
 
-🎙️**TINIG: AI-Generated Audio Detection**
+🎙️ **TINIG: A Detection Model for AI-Generated Audio in Filipino and Taglish Voice Recordings**
 
 Built an AI-generated audio detection model for Filipino and Taglish voice recordings using a dual-path architecture combining XLS-R and LFCC features with an SVM classifier. The model was trained and evaluated using a custom-built dataset.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/krystineee/images/main/image63.png" width="32%" alt="Landing Page">
+    <img src="https://raw.githubusercontent.com/krystineee/images/main/image53.png" width="32%" alt="About">
+    <img src="https://raw.githubusercontent.com/krystineee/images/main/image54.png" width="32%" alt="Results">
+</p>
 
 📊 **Customer Churn Prediction**
 
 Developed a machine learning model in Python to predict customer churn through data preprocessing, feature engineering, model training, and performance evaluation.
+
+<p align="center">
+    <img src="https://github.com/krystineee/images/blob/main/Screenshot%202026-07-14%20091416.png" width="32%" alt="Results">
+    <img src="https://github.com/krystineee/images/blob/main/Screenshot%202026-07-14%20094729.png" width="32%" alt="Heatmap">
+    <img src="https://github.com/krystineee/images/blob/main/Screenshot%202026-07-14%20094850.png" width="32%" alt="Prediction">
+</p>
+
+🐑 **Sheep Thrills: The Adventure of Sheepapopipopu**
+
+Designed and animated the main character for a 2D platformer game using custom sprite animations. Contributed to the game's visual style and character movement to create a fun and engaging gameplay experience.
+
+<p align="center">
+    <img src="https://github.com/krystineee/images/blob/main/Screenshot%202026-07-14%20095632.png" width="32%" alt="Start Screen">
+    <img src="https://github.com/krystineee/images/blob/main/Screenshot%202026-07-14%20095729.png" width="31.5%" alt="Gameplay">
+    <img src="https://github.com/krystineee/images/blob/main/Screenshot%202026-07-14%20095850.png" width="32%" alt="Results">
+</p>
