@@ -12,7 +12,7 @@ import java.util.Date; //importing only the Date class from java.util package
   or only import java.sql.Date; package
  */
 
-public class NamingConflictLrsson {
+public class NamingConflictLesson {
   Date d1;
   //also possible
   java.sql.Date d2;
