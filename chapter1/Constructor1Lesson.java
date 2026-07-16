@@ -6,17 +6,44 @@ public class Constructor1Lesson {
     Chicken c2 = new Chicken();
     System.out.println();
   }
-}
+} 
+
 
 class Chicken {
-  /*
+  /* 
     constructor same name as the class name
     sets the innital value of the object when it is created
     VV
   */
+
   int numEggs = 0;
   String name;
+  
   public Chicken() {
     name = "Hen";
+  }
+}
+
+class Swan{
+  int numberEggs;
+  public static void main(String[] args) {
+    Swan mother = new Swan();
+    mother.numberEggs = 1; //writing object fields
+    System.out.println(mother.numberEggs); //reding object fields
+  }
+}
+
+class Name{
+  String first = "Marc";
+  String last = "Yim";
+  String full = first+last;
+  public static void main(String[] args) {
+    Name name1 = new Name();
+    System.out.println(name1.full);
+    name1.first ="Anton";
+    name1.last = "Racal";
+    //will still print MarcYim because full is not updated when first and last are updated
+    name1.full = name1.first+name1.last; //this will update full to AntonRacal
+    System.out.println(name1.full);
   }
 }
