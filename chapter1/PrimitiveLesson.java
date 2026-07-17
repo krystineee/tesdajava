@@ -19,6 +19,9 @@ public class PrimitiveLesson {
    long l = 56L; //valid because long is bigger than int
    char c = 97; //char values are Unicode characters | look up Ascii table
    System.out.println(c);
+
+   int million = 1_000_000; //valid because underscores are allowed in numbers as long its not at the start, end, and by a decimal
+   float h =3.1_4f; //valid but annoying to look at
   }
 
 }
