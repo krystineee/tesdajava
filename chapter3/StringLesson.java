@@ -56,6 +56,26 @@ public class StringLesson {
         String trimsample = "       \t \n \t Marc Yim   \t\n";
         System.out.println(trimsample.trim());
         System.out.println(trimsample);
+
+        //StringBuilder
+            //limit for max character sequence integer.MAX_VALUE
+            //String limitString = "";
+        String sample1 = "abcd";
+        String sample2 = "abcd";
+        String sample3 = "abcd ";
+        
+        //comparing compile time
+        System.out.println("sample1==sample2 = "+(sample1==sample2));
+        System.out.println("sample1==sample3 = "+(sample1==sample3));
+        System.out.println("sample2==sample3 = "+(sample2==sample3));
+        
+        //comparing runtime
+        System.out.println("sample1.equals(sample2) = "+sample1.equals(sample2));
+        System.out.println("sample1.equals(sample3) = "+sample1.equals(sample3));
+        System.out.println("sample2.equals(sample3) = "+sample2.equals(sample3));
+
+        System.out.println("sample1.equals(sample3.trim()) = "+sample1.equals(sample3.trim()));
+        System.out.println("sample2.equals(sample3.trim()) = "+sample2.equals(sample3.trim()));
     }
     
 }
