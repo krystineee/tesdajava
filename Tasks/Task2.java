@@ -6,10 +6,10 @@ public class Task2 {
         int zero = 0;
         float fTwo = 2.0f;
         boolean bol = true;
-        char cH = 'H', cW = 'w', cR = 'r', cD='d';
+        char cH = 'H';
 
        String output = "" + cH + three + one + one + zero + " "
-            + cW + zero + cR + one + cD + " "
+            + "w" + zero + "r" + one + "d" + " "
             + fTwo + " " + bol;
         System.out.println(output);
     }
