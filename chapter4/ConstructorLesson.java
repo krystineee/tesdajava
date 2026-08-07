@@ -41,14 +41,15 @@ class Hamster{
     }
 }
 
+//Order of Iinitialization
 class InitializationOrderSimple {
-    private String name = "Torchie";
+    private String name = "Torchie";    //instance
     { System.out.println(name); }
     private static int COUNT = 0;
     static { System.out.println(COUNT); }
     static { COUNT += 10; System.out.println(COUNT); }
     public InitializationOrderSimple() {
-      System.out.println("constructor");
+      System.out.println("constructor");    //method
     } 
     public static void main(String[] args) {
         InitializationOrderSimple init = new InitializationOrderSimple();
