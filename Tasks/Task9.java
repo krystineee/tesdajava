@@ -16,7 +16,7 @@ public class Task9 {
         int product = multiplyExact(a,b); 
         return product;
     }
-
+    
     public static float divide(int a, int b) {
         float quotient = (float) floorDiv(a,b);
         return quotient;
