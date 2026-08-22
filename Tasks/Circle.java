@@ -1,8 +1,8 @@
 public class Circle extends AbstractShape {
     double radius;
 
-    public Circle (String color, double length, double width, double radius){
-        super(color, length, width);
+    public Circle (String color, double radius){
+        super(color, 0, 0);
         this.radius = radius;
     }
 

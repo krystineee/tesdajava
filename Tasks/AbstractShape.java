@@ -1,4 +1,4 @@
-public class AbstractShape implements Shape {
+public abstract class AbstractShape implements Shape {
     String color;
     double length;
     double width;
